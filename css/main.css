@@ -1,0 +1,247 @@
+main div { width: 43%; display: inline-block; }
+
+img, svg { width: 100%; }
+
+body {
+  font-family: "Avenir Next", sans-serif;
+  font-size: 15px;
+  color: #20523D;
+  background-color: #fff;
+  margin: 0 ;
+  padding: 0;
+}
+
+hr{
+  background-color: #20523D;
+  color: #20523D;
+  height: 2px;
+  margin-top: 15px;
+}
+
+h2{
+  font-size: 30px;
+  margin-top: 50px;
+}
+
+p{
+margin-top: -30px;
+}
+.comment{
+  font-size: 18px;
+  margin-top: 40px;
+}
+
+footer {
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+footer p {
+  display: inline;
+}
+
+.copyright{
+  margin-top: 10px;
+}
+
+.terms{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.policy{
+  margin-top: 10px;
+}
+
+#eco{
+  margin-top: 50px;
+  width: auto;
+  height: 120px;
+}
+#eco:hover #left {fill:#1F875D !important;}
+#eco:hover #right {fill:#1F875D  !important;}
+#eco:hover {
+  webkit-transform: scale(0.9);
+  ms-transform: scale(0.9);
+  transform: scale(0.9);
+}
+
+#earth{
+  margin-top: 50px;
+  width: auto;
+  height: 120px;
+}
+
+#earth:hover {
+  webkit-transform: scale(0.9);
+  ms-transform: scale(0.9);
+  transform: scale(0.9);
+}
+#water:hover{fill:#45B522 !important;}
+
+
+#electrocar{
+  margin-top: 50px;
+  width: auto;
+  height: 120px;
+}
+#electrocar:hover #auto{fill:#45B522 !important;}
+#electrocar:hover {
+  webkit-transform: scale(0.9);
+  ms-transform: scale(0.9);
+  transform: scale(0.9);
+}
+
+
+#bicycle{
+  margin-top: 50px;
+  width: auto;
+  height: 95px;
+}
+#bicycle:hover #wheel1{fill:#45B522 !important;}
+#bicycle:hover #wheel2{fill:#45B522 !important;}
+#bicycle:hover #sit{fill:#6DD938 !important;}
+#bicycle:hover #item{fill:#6DD938 !important;}
+#bicycle:hover {
+  webkit-transform: scale(0.9);
+  ms-transform: scale(0.9);
+  transform: scale(0.9);
+}
+#gas{
+  margin-top: 50px;
+  width: auto;
+  height: 110px;
+}
+#gas:hover {
+  webkit-transform: scale(0.9);
+  ms-transform: scale(0.9);
+  transform: scale(0.9);
+}
+
+
+#lines{
+  margin-top: 50px;
+  width: auto;
+  height: 110px;
+}
+#lines:hover {
+  webkit-transform: scale(0.9);
+  ms-transform: scale(0.9);
+  transform: scale(0.9);
+}
+
+
+#plants{
+  margin-top: 50px;
+  width: auto;
+  height: 110px;
+}
+#plants:hover #ground{fill:#9ACF45 !important;}
+#plants:hover #ground1{fill:#9ACF45 !important;}
+#plants:hover {
+  webkit-transform: scale(0.9);
+  ms-transform: scale(0.9);
+  transform: scale(0.9);
+}
+
+
+#greenhouse{
+  margin-top: 50px;
+  width: auto;
+  height: 110px;
+}
+#greenhouse:hover #home{fill:#73C430 !important;}
+#greenhouse:hover {
+  webkit-transform: scale(0.9);
+  ms-transform: scale(0.9);
+  transform: scale(0.9);
+}
+
+
+#bag{
+  margin-top: 50px;
+  width: auto;
+  height: 110px;
+}
+#bag:hover #package{fill:#27AA74 !important;}
+#bag:hover {
+  webkit-transform: scale(0.9);
+  ms-transform: scale(0.9);
+  transform: scale(0.9);
+}
+
+
+#humans{
+  margin-top: 50px;
+  width: auto;
+  height: 110px;
+}
+#humans:hover #right{fill:#B2EF4C !important;}
+#humans:hover #left{fill:#B2EF4C !important;}
+#humans:hover #head{fill:#B2EF4C !important;}
+#humans:hover #body{fill:#B2EF4C !important;}
+#humans:hover #hand{fill:#B2EF4C !important;}
+#humans:hover #litter{fill:#B2EF4C !important;}
+#humans:hover #rubbish{fill:#B2EF4C !important;}
+#humans:hover {
+  webkit-transform: scale(0.9);
+  ms-transform: scale(0.9);
+  transform: scale(0.9);
+}
+
+
+.hidden{
+display: none;
+}
+
+.container{
+  text-align: center;
+  width: 940px;
+  margin: 0 auto;
+}
+
+.logoHeader{
+  margin-top: 20px;
+  margin-right: 600px;
+  margin-bottom: 20px;
+}
+
+
+
+.mainNav{
+  width: 350px;
+  margin-top: -60px;
+  margin-left: auto;
+}
+
+.mainNav ul{
+  list-style-type: none;
+  padding: 0;
+}
+
+.mainNav ul li {
+  cursor: pointer;
+  display: inline;
+  font-size: 15px;
+  font-family: "Avenir Next", sans-serif;
+  font-weight: bold;
+}
+
+.mainNav ul li a
+{
+  color: #20523D;
+  padding: 15px;
+  text-decoration: none;
+}
+
+.mainNav ul li a:hover {
+  background-color: #41CB5D;
+  color: #fff;
+}
+
+.maincontent{
+  text-align: center;
+  width: 940px;
+  margin: 0 auto;
+}
